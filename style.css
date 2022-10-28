@@ -1,0 +1,15 @@
+.banner {
+    background:url("https://2.bp.blogspot.com/-JxvSS1xqXt8/WDv85MD3tOI/AAAAAAAABpI/VoKDEufjP_Up775G4gxqx2WjzSTn0ocWQCLcB/s1600/1dsagf.png") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.crop-img {
+    object-fit: cover;
+}
+
+.profile {
+    color : #fff;
+}
